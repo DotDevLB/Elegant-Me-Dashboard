@@ -16,7 +16,8 @@ verview of the Shop Management Dashboard.*
 
 ### Product Management
 - **Add, Edit, and Delete Products:** Easily manage your shop's product listings with intuitive controls.
-  ![Screenshot 2024-02-22 173657](https://github.com/joe-hadchity/ElegantMe_Dashboard/assets/105626252/0032d855-95e5-4be1-9cea-35f59486e274)
+  ![Screenshot 2024-02-22 173657](https://github.com/joe-hadchity/ElegantMe_Dashboard/assets/105626252/0032d855-95e5-4be1-9cea-35f59486e274)![Screenshot 2024-02-22 165924](https://github.com/joe-hadchity/ElegantMe_Dashboard/assets/105626252/d473c4c2-2446-4817-9007-4663550a97f8)
+
   *Managing product listings.*
 
 ### Staff Management

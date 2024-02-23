@@ -27,14 +27,10 @@ verview of the Shop Management Dashboard.*
 
 ### Discount System
 - **Create and Manage Discounts:** Implement discount strategies by creating and applying discounts to products.
-  
-  ![Discount Management](path/to/discount_management_screenshot.jpg)
   *Discount application and management.*
 
 ### Settings
 - **Shop Settings:** Customize various aspects of the shop, including operational hours, payment methods, and more.
-  
-  ![Settings](path/to/settings_screenshot.jpg)
   *Customizing shop settings.*
 
 
@@ -42,7 +38,7 @@ verview of the Shop Management Dashboard.*
 
 - **Frontend:** React - Utilized for its efficiency in creating interactive UIs.
 - **Backend:** Spring Boot - Chosen for its ability to rapidly develop production-ready backend services.
-- **Database:** [Specify database, e.g., MySQL, MongoDB] - For storing and managing application data.
+- **Database:** PosgreSQL - For storing and managing application data.
 
 ## Getting Started
 
